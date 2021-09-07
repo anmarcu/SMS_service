@@ -45,7 +45,7 @@
             </constraints>
             <properties>
               <name value=""/>
-              <text value="+40764282939"/>
+              <text value=" phone number"/>
             </properties>
           </component>
           <component id="17d91" class="javax.swing.JButton" binding="jButtonListPorts">
